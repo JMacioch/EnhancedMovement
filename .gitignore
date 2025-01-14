@@ -1,0 +1,52 @@
+# ========== System Specific ==========
+.DS_Store
+Thumbs.db
+
+# ========== Unity Generated Files ==========
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+/UIElementsSchema/
+
+# ========== Visual Studio ==========
+.vs/
+/*.user
+/*.suo
+/*.userosscache
+*.sln.docstates
+
+# ========== Rider/JetBrains Rider ==========
+.idea/
+/*.ipr
+/*.iws
+.idea_modules/
+project.iml
+
+# ========== Unity Asset Files ==========
+*.pidb
+*.pidb.meta
+*.pdb
+*.meta
+*.unitypackage
+
+# ========== Crash and Debug Logs ==========
+*.log
+*.crash
+
+# ========== Other Unnecessary Files ==========
+*.swp
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.orig
+
+# ========== Ignore Specific Folders in Assets ==========
+/[Aa]ssets/SimpleLowPolyNature
+/[Aa]ssets/SkySerie Freebie/
