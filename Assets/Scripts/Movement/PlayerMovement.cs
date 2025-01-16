@@ -111,7 +111,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Landing()
     {
-        Debug.Log("WYLADAWAL");
+        
         wasInAir = false;
         if(Input.GetKey(KeyCode.C))
         landingParticle.Play();
@@ -233,7 +233,7 @@ public class PlayerMovement : MonoBehaviour
                 if(!Jumped)
                 {
                     rb.AddForce(-slopeHit.normal * 50, ForceMode.Force);
-                    Debug.Log("DODAJE SILKE");
+                 
                 }
                 
                 
