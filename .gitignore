@@ -31,7 +31,6 @@ project.iml
 *.pidb
 *.pidb.meta
 *.pdb
-*.meta
 *.unitypackage
 
 # ========== Crash and Debug Logs ==========
@@ -49,4 +48,4 @@ project.iml
 
 # ========== Ignore Specific Folders in Assets ==========
 /[Aa]ssets/SimpleLowPolyNature
-/[Aa]ssets/SkySerie Freebie/
+/[Aa]ssets/Thirdparty

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{38A8585E-A86D-FF67-2E50-84D2C5AC37CF}</ProjectGuid>
+    <ProjectGuid>{67DD8110-CB4A-2BBC-300A-20BA783A5331}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -64,7 +64,6 @@
   <ItemGroup>
     <None Include="Assets\SimpleLowPolyNature\Readme.txt" />
     <None Include="Assets\SimpleLowPolyNature\Shaders\SimpleWater.shader" />
-    <None Include="Assets\SkySerie Freebie\Hdri setup.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
